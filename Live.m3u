@@ -437,50 +437,7 @@ http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="IPV6·咪咕",咪咕直播-56「IPV6」
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 group-title="•影视",「轮播」国产悬疑
-https://epg.112114.eu.org/huya/11342395
-#EXTINF:-1 group-title="•影视",奥特曼
-http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key
-#EXTINF:-1 group-title="•影视",「轮播」成龙
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34460526
-#EXTINF:-1 group-title="•影视",「轮播」电影•1
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
-#EXTINF:-1 group-title="•影视",「轮播」哆啦A梦
-https://epg.112114.eu.org/huya/11601963
-#EXTINF:-1 group-title="•影视",「轮播」动漫
-http://tc-tct.douyucdn2.cn/dyliveflv1a/206858rtesHKjl.flv?wsAuth=874ec8068853bd13e2fa21a68f258440&token=cpn-androidmpro-0-206858-355488b41ed19088616f37e791a58fcf3679923943a09438&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="•影视",「动漫」航海王
-https://epg.112114.eu.org/huya/16913382
-#EXTINF:-1 group-title="•影视",怀旧动画
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
-#EXTINF:-1 group-title="•影视",「轮播」经典小品
-http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 group-title="•影视",铠甲勇士
-http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_82_720P_t10/c53_lb_82_720P_t10.m3u8?key
-#EXTINF:-1 group-title="•影视",林正英•1
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
-#EXTINF:-1 group-title="•影视",林正英•2
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
-#EXTINF:-1 group-title="•影视",猫和老鼠
-http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
-#EXTINF:-1 group-title="•影视",名侦探柯南
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
-#EXTINF:-1 group-title="•影视",「欧美」电影•1
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
-#EXTINF:-1 group-title="•影视",猫和老鼠
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
-#EXTINF:-1 group-title="•影视",猫和老鼠
-https://epg.112114.eu.org/huya/11352879
-#EXTINF:-1 group-title="•影视",童年经典
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
-#EXTINF:-1 group-title="•影视",香港电影
-https://epg.112114.eu.org/huya/11602058
-#EXTINF:-1 group-title="•少儿",宝宝巴士
-http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key
-#EXTINF:-1 group-title="•少儿",宝宝课堂
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key
-#EXTINF:-1 group-title="•少儿",贝瓦儿歌
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c56_lb_188_600_t10/c56_lb_188_600_t10.m3u8?key
+
 #EXTINF:-1 group-title="斗鱼影视",粤语综艺
 http://epg.112114.xyz/douyu/7919720
 #EXTINF:-1 group-title="斗鱼影视",华语经典
